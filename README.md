@@ -163,11 +163,3 @@ We welcome issues, pull requests, and feature ideas!
 * Open a GitHub issue for bugs or enhancements
 * Fork the repo and submit PRs
 * Join discussions and improve THOS together
-
-***Repo Link:*** [https://github.com/YourUsername/THOS-v2.1](https://github.com/YourUsername/THOS-v2.1)
-
----
-
-If you want, I can **also create a full “badges + screenshots + animated GIF demo section” version** like Telemetry Harbor’s README so it looks super professional and modern.
-
-Do you want me to do that next?
